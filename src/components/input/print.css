@@ -1,0 +1,25 @@
+.inter{
+	row-gap: 30px;
+	width: 70%;
+}
+ .inputer{
+	font-size: 25px;
+	height: 80px;
+} 
+.form__error2{
+    color: red;
+
+}
+.form__send-result2{
+   
+    color: green;
+}
+@media (max-width: 1000px) {
+	.inter{
+	display: grid;
+    row-gap: 20px;
+	width: 60%;
+	}
+  }  
+
+ 

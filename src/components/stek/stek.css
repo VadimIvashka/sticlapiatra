@@ -1,0 +1,17 @@
+.promor{
+	background: url('./../../img/images/stek.jpg');
+	width: 100%;
+	height: auto;
+	color: #fff;
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+.promo__title {
+	max-width: 300px;
+	margin-bottom: 40px;
+	font-weight: 900;
+	font-size: 60px;
+}
+.inter{
+	display: grid;
+}

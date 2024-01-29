@@ -1,0 +1,13 @@
+.tr{
+    display: flex;
+    column-gap: 8px;
+}
+.buton{
+    padding: 10px 10px 10px 10px;
+	background-color: var(--twoColor);
+	border-radius: 7px;
+	font-weight: 300;
+	font-size: 18px;
+    color: #000000;
+
+}

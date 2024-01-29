@@ -1,0 +1,22 @@
+.arrivals {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.arrivals__header {
+    margin-bottom: 100px;
+}
+
+.arrivals__cards {
+    display: flex;
+    justify-content: space-between;
+ 
+    flex-wrap: wrap;
+}
+@media (max-width: 1060px) {
+	.arrivals__cards{
+     margin-left: auto;
+	 margin-right: auto;
+	
+    }
+  }
